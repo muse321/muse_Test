@@ -1,6 +1,6 @@
 museyhb@163.com
 
-这个是作业
+这个是作业 哎
 
 匹配一个.com的邮箱
 re.findall(r'\w+@\w+\.com','')
